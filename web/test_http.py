@@ -1,4 +1,4 @@
-import http
+import web.http as http
 
 import pytest
 
